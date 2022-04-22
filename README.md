@@ -1,0 +1,4 @@
+## Todo
+  - [ ] Backend
+  - [ ] Frontend
+  - [ ] Dockerize
